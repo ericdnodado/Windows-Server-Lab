@@ -35,13 +35,6 @@ The project focuses on enterprise-style domain controller deployment, DNS config
 
 ---
 
-# IP Addressing
-Device	IP Address	Role
-DC1	192.168.10.10	Domain Controller
-CLIENT1	192.168.10.100	Domain Client
-Gateway	192.168.10.1	Router
-DNS	192.168.10.10	DC1
-
 # Network Topology
 
 ```plaintext
